@@ -26,5 +26,7 @@
 	- <a href="https://github.com/sunweiguo/leetcode-pratice-note/blob/master/array/013%E3%80%81%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.md">《leetcode-013-多数元素》</a>
 	- <a href="https://github.com/sunweiguo/leetcode-pratice-note/blob/master/array/014%E3%80%81%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84.md">《leetcode-014-旋转数组》</a>	
 	- <a href="https://github.com/sunweiguo/leetcode-pratice-note/blob/master/array/015%E3%80%81%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.md">《leetcode-015-存在重复元素》</a>	
+	- <a href="https://github.com/sunweiguo/leetcode-pratice-note/blob/master/array/016%E3%80%81%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A02.md">《leetcode-016-存在重复元素2》</a>	
+
 
 
