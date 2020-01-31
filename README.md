@@ -36,7 +36,7 @@
 	- <a href="https://github.com/sunweiguo/leetcode-pratice-note/blob/master/array/023%E3%80%81%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84K-diff%E6%95%B0%E5%AF%B9.md">《leetcode-023-数组中的K-diff数对》</a>	
 	- <a href="https://github.com/sunweiguo/leetcode-pratice-note/blob/master/array/024%E3%80%81%E6%95%B0%E7%BB%84%E6%8B%86%E5%88%86I.md">《leetcode-024-数组拆分I》</a>	
 	- <a href="https://github.com/sunweiguo/leetcode-pratice-note/blob/master/array/025%E3%80%81%E9%87%8D%E5%A1%91%E7%9F%A9%E9%98%B5.md">《leetcode-025-重塑矩阵》</a>	
-	- <a href="">《leetcode-026-最短无序连续子数组》</a>	
+	- <a href="https://github.com/sunweiguo/leetcode-pratice-note/blob/master/array/026%E3%80%81%E6%9C%80%E7%9F%AD%E6%97%A0%E5%BA%8F%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84.md">《leetcode-026-最短无序连续子数组》</a>	
 	- <a href="">《》</a>	
 	- <a href="">《》</a>	
 	- <a href="">《》</a>	
