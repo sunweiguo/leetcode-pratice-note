@@ -41,7 +41,7 @@
 	- <a href="https://github.com/sunweiguo/leetcode-pratice-note/blob/master/array/028%E3%80%81%E4%B8%89%E4%B8%AA%E6%95%B0%E7%9A%84%E6%9C%80%E5%A4%A7%E4%B9%98%E7%A7%AF.md">《leetcode-028-三个数的最大乘积》</a>	
 	- <a href="https://github.com/sunweiguo/leetcode-pratice-note/blob/master/array/029%E3%80%81%E5%AD%90%E6%95%B0%E7%BB%84%E6%9C%80%E5%A4%A7%E5%B9%B3%E5%9D%87%E6%95%B0%20I.md">《leetcode-029-子数组最大平均数 I》</a>	
 	- <a href="https://github.com/sunweiguo/leetcode-pratice-note/blob/master/array/030%E3%80%81%E9%9D%9E%E9%80%92%E5%87%8F%E6%95%B0%E5%88%97.md">《leetcode-030-非递减数列》</a>	
-	- <a href="">《》</a>	
+	- <a href="">《leetcode-031-最长连续递增序列》</a>	
 	- <a href="">《》</a>	
 	- <a href="">《》</a>	
 	- <a href="">《》</a>	
