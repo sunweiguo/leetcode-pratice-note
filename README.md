@@ -43,7 +43,7 @@
 	- <a href="https://github.com/sunweiguo/leetcode-pratice-note/blob/master/array/030%E3%80%81%E9%9D%9E%E9%80%92%E5%87%8F%E6%95%B0%E5%88%97.md">《leetcode-030-非递减数列》</a>	
 	- <a href="https://github.com/sunweiguo/leetcode-pratice-note/blob/master/array/031%E3%80%81%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E9%80%92%E5%A2%9E%E5%BA%8F%E5%88%97.md">《leetcode-031-最长连续递增序列》</a>	
 	- <a href="https://github.com/sunweiguo/leetcode-pratice-note/blob/master/array/032%E3%80%81%E6%95%B0%E7%BB%84%E7%9A%84%E5%BA%A6.md">《leetcode-032-数组的度》</a>	
-	- <a href="">《》</a>	
+	- <a href="">《leetcode-033-1比特与2比特字符》</a>	
 	- <a href="">《》</a>	
 	- <a href="">《》</a>	
 	- <a href="">《》</a>	
